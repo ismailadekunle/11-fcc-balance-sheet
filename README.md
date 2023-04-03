@@ -1,16 +1,28 @@
-# Project Name
+# A BALANCE SHEET
 
-> One paragraph statement about the project.
+> A balance sheet using pseudo selectors where style of an element are being changed when an event are triggered on the element.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description of the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+  - `div`, `span`, `caption`, `table` etc
+- CSS properties
+  - CSS Background for page aesthetic using
+    `background-color`, `background-image`, .
+  - CSS Typography properties
+    `white-space`,`font-size`, `font-style`, etc
+  - CSS Box Model properties
+    `border-bottom`, `box-sizing`, `border-collapse`, etc
+  - CSS Flexbox properties
+    `flex-direction`,`overflow`,
+  - CSS Positioning properties
+    `position`, `top`, `z-index`.
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
@@ -65,14 +77,14 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@ismailadekunle](https://github.com/ismailadekunle)
+- Twitter: [@ismailadekunle](https://twitter.com/ismailadekunle)
+- Linkedin: [@ismailAdekunleJIMOH](https://www.linkedin.com/in/ismailAdekunleJIMOH/)
+- Freecodecamp: [@ismailadekunle](https://www.freecodecamp.org/ismailadekunle)
 
 ## 🤝 Contributing
 
@@ -86,9 +98,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- Freecodecamp: (https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet)
 
 ## 📝 License
 
